@@ -95,6 +95,8 @@ neoforge-21.1.73-installer.jar
 java @user_jvm_args.txt @libraries/net/neoforged/neoforge/21.1.73/unix_args.txt libraries/net/neoforged/neoforge/21.1.73/neoforge-21.1.73-server.jar nogui
 
 ```
+### Remove the Server Executable Update URL
+
 Click the Save button at the bottom of the page. 
 
 ## You should now be able to start the server
