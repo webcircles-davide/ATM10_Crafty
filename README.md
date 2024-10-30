@@ -50,6 +50,8 @@
    sudo chmod 2775 * -R
    ```
 # Manual install
+##
+Download `user_jvm_args.txt` from above.
 
 ## Install Neoforge in the server directory
 1. Unzip Server-Files-X.XX.zip
