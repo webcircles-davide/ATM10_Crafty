@@ -1,5 +1,6 @@
 # How to install an ATM10 Server with Crafty Controller 
-    
+   ## This was done on Ubuntu Server 24.04 
+   If you have any suggestions or additions to add for other platforms, let me know.
    ## Download Neoforge (Version 21.1.73 at the time of writing)
     https://projects.neoforged.net/neoforged/neoforge
 
