@@ -1,3 +1,11 @@
+# AGGIORNAMENTO ATM10 Server
+Backup any modified configs or kubejs scripts, if any, to be replaced later.
+
+* Download Server Files from CurseForge
+* Delete kubejs, defaultconfigs, mods, and config folder.
+* If server forge version is different, delete libraries folder, and copy over new startserver.bat/sh, & forge-installer.jar if exists.
+* Extract the deleted folders from Server Files into your server folder.
+
 # How to install an ATM10 Server with Crafty Controller 
    ## This was done on Ubuntu Server 24.04 
    If you have any suggestions or additions to add for other platforms, let me know.
